@@ -1,1 +1,0 @@
-## Decisão da arquitetura
