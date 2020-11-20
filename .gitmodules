@@ -1,0 +1,6 @@
+[submodule "EdTechFrontEnd"]
+	path = EdTechFrontEnd
+	url = https://github.com/Julianepmello/EdTechFrontEnd.git
+[submodule "EdTechAPI"]
+	path = EdTechAPI
+	url = https://github.com/Julianepmello/EdTechAPI.git
